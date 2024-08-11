@@ -1,0 +1,16 @@
+## Interface: 50400
+## Title: TriviaBot
+## Author: TriviaBot Team + Kuimasi [Bloodsail Buccaneers]
+## Version: 2.9.0
+## X-Minor-Version: 1
+## Notes: If you ever find yourself being bored while questing, grinding, raiding or just standing around in a city, you can use this addon to host a fun quiz others can join to play. Remember not to disturb other players!. 
+## Notes-deDE: Wenn es dir jemals beim questen, grinden, raiden oder einfach nur in der Stadt herumstehen langweilig ist, kannst du mit diesem Addon ein Quiz beginnen, dem andere Spieler beitreten konnen. Denke daran andere Spieler nicht zu storen !.
+## X-Credits: FelheartCdO (frFR), Nihlo (deDE), Sa1reS (ruRU)
+## eMail: zizanzu@gmail.com
+## URL: http://triviabot.zizanzu.org
+## X-Category: Chat/Communication
+## SavedVariables: TriviaBot_Config,TriviaBot_Scores
+
+Libs\DropDownMenu\lib.xml
+Locales.xml
+TriviaBot.lua

@@ -1,0 +1,40 @@
+==Version 2.5.4 01/23/2009 for 3.3 (1/25/2010) ==
+*Updated TOC
+*Fixed listing of answers if set to higher than 1
+*Added delay to channel loading to further prevent custom channel to be listed as #1 (hope this works)
+*Added Officer chat to chat types
+
+==Version 2.5.4 01/23/2009==
+*Fixed listing of answers if set to higher than 1
+*Added delay to channel loading to further prevent custom channel to be listed as #1 (hope this works)
+*Added Officer chat to chat types
+
+==Version 2.5.3 01/06/2009==
+*Fixed channel problem under loading
+
+==Version 2.5.2 12/30/2008==
+*Fixed continuation of quiz when frame was hidden
+*Fixed memory spikes when changing category
+*Changed question handling with indexing
+*Added Strand of the Ancients to BG channels
+*Added question file submitted by Hessinger (around 4900 questions)
+
+==Version 2.5.1 10/16/2008==
+*Fixed loading of question files
+*Rewrote the whisper menu control for added flexibility
+*Added option to filter out TriviaBot whispers
+*Added option to use a short channel tag for channel output
+*Added option for amount of answers shown if timeout is reached
+*Updated for patch 3.0.2
+
+==Version 2.5.0 08/20/2008==
+*Rewrote a lot of the functions from 2.4.4 to add the new features
+*Fixed TriviaBot response so it only listens to the current channel
+*Reordered GUI for additional settings
+*Introducing categorization of questions
+**It's possible to add hints to questions
+**Each question grants a certain amount of points related to their difficulty
+*Added new game record: win-streak
+*All players' personal records are stored
+*Channel handling has been optimized and improved
+*Various other changes

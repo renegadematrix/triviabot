@@ -1,0 +1,18 @@
+## Interface: 50400
+## Title: TriviaBot |cFF77BBFFQuiz|r
+## Notes: Title of the quiz
+## Author: Author of the quiz
+
+# add the name of your question file below this line \/
+TriviaQuestions.lua
+
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
+## X-TriviaBot-Questions: 1
+## LoadOnDemand: 1
+## Dependencies: TriviaBot
+core.lua
+# ---------------------------------------------------
+# DO NOT EDIT OR REMOVE ANYTHING BETWEEN THESE LINES!
+# ---------------------------------------------------
